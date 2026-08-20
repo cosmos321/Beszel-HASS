@@ -3,6 +3,7 @@
 [![GitHub Release][releases-shield]][releases]
 [![HACS Custom][hacsbadge]][hacs]
 [![License][license-shield]](LICENSE)
+[![AI Assisted][ai-assisted-shield]][ai-assisted]
 
 This custom integration exposes systems, containers, extra filesystems, and SMART
 disks from a [Beszel](https://github.com/henrygd/beszel) Hub in Home Assistant.
@@ -124,3 +125,5 @@ MIT — see [LICENSE](LICENSE).
 [license-shield]: https://img.shields.io/github/license/cgfm/beszel-hass.svg?style=for-the-badge
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [hacs]: https://github.com/hacs/integration
+[ai-assisted-shield]: https://img.shields.io/badge/AI-Assisted%20Development-blueviolet.svg?style=for-the-badge
+[ai-assisted]: #ai-assisted-development
